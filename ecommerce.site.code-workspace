@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "ecommerce",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "ecommerce"
+	}
+}
